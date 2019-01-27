@@ -1,0 +1,24 @@
+h1
+{
+    color: red;
+    font-size: large;
+}
+figure
+{
+    text-align: center;
+}
+ul
+{
+    border: 10px blue dotted ;
+    box-shadow: 6px 6px 0px black;
+}
+a
+{
+    text-decoration: none;
+    color: royalblue;
+}
+a:hover
+{
+    text-decoration: aqua;
+    color: brown;
+}

@@ -1,0 +1,53 @@
+h2
+{color: blueviolet;
+    font-style: oblique;
+    text-decoration-line: underline;
+}
+em
+{ color: crimson;} /* Les paragraphes sortent en bleu*/
+.nom
+{
+    color:red;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+p
+{font-size: medium;
+}
+ strong
+{
+    font-size: large;
+    border: 3px crimson double
+}
+body 
+{
+    background-color:burlywood;
+    
+}
+figure
+{
+    text-align: left;
+    
+}
+img
+{
+    height: 100px;
+    width: 300px;
+}
+figcaption
+{
+    text-decoration:underline ;
+    color: blue;
+}
+/*
+.imageflot
+{
+    float: left;
+    font-size: x-small;
+}*/
+/*Pour changer la police on utilise font-family*/
+/*les polices disponibles sont: Arial ;Arial Black;comic sans MS;Courier New
+
+/* Georgia ;Impact; Times New Roman;Trebuchet MS;Verdana  */
